@@ -12,7 +12,7 @@ def us_alma(sayi,us):
     sonuc=sayi
     artıs=sayi
     if us==0:
-        print(0)
+        print(1)
     for i in range(1,us):
         for j in range(1,sayi):
             sonuc+=artıs
